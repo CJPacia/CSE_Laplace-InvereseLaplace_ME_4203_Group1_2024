@@ -18,3 +18,9 @@ Torreverde, Zedric Gabriel G.
 ![428447221_783011447037442_3213384715300299852_n](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/160628792/93e19bd0-17aa-4bd6-9ea6-7fc65b70b40d)
 ![428022556_1102787174308752_5291424753750194367_n](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/160628792/925de726-1127-4be1-afbe-6faec3d5c348)
 ![428442167_1157929908949675_6854769585936633177_n](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/160628792/24d31c4e-072b-4f81-91e0-d8469a007325)
+
+Moreno, Christopher Ivan L.
+![Moreno_Assignment_1](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/161204461/a4dd2351-9344-450c-931d-aab803659665)
+![Moreno_Assignment_2 1](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/161204461/06e81f2c-a736-4635-a883-00af64a9124d)
+![Moreno_Assignment_2 2](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/161204461/b4366240-a4f0-4db5-9730-5acbd6c52cf6)
+
