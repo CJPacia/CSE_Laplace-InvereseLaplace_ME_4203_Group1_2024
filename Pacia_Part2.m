@@ -1,3 +1,6 @@
+% Cyrill Jade T. Pacia
+% ME - 4203
+
 % Clear
 clear
 clc
