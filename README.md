@@ -1,7 +1,7 @@
 # CSE_Laplace&InverseLaplace_ME_4203_Group1_2024
 Laboratory 1 regarding Laplace &amp; Inverse Laplace
 
-Attached are the manual calculations of each group
+Attached are the manual calculations of each member
 
 Pacia Cyril Jade T.
 ![427964432_312762748455507_7370451415822900515_n](https://github.com/CJPacia/CSE_Laplace-InverseLaplace_ME_4203_Group1_2024/assets/159045690/7f115c9a-08c1-47a6-85ec-351b1d385761)
